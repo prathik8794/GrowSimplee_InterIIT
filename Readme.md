@@ -25,3 +25,10 @@ pip3 install -r requirements.txt
 python server.py
 ```
 
+<h3>ScreenShots of Setup and Driver view of App </h3>
+<p>
+ <img src="Screenshot%20from%202024-01-21%2019-30-49.png" width="245">&emsp;
+ <img src="Screenshot%20from%202024-01-21%2019-32-04.png" width="245">&emsp;
+</p>
+
+## Report is available in Repo for comprehensive understanding of Entire Project
